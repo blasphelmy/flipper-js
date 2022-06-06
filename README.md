@@ -1,4 +1,4 @@
-<h1 align="center">Flipper Js</h1>
+<a href="https://blasphelmy.github.io/flipper-js/" target="_blank"><h1 align="center">Flipper Js</h1></a>
 
 <div align="center" id="top"> 
   <img src="././images/prview.gif" alt="Flipper Js" />
